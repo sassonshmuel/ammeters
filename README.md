@@ -63,3 +63,4 @@ Fixes:
 How to run the test cases:
 python -m unittest tests.test_cases -v
 
+![tests results](results/results.png)
