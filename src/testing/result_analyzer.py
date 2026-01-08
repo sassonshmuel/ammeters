@@ -39,12 +39,13 @@ class ResultAnalyzer:
             "skewness": float(stats.skew(values)),  # א-סימטריה
             "kurtosis": float(stats.kurtosis(values)),  # התפלגות
             "confidence_interval_95": list(stats.t.interval(
-                alpha=0.95,
-                df=len(values)-1,
+                0.95,
+                df=len(values) - 1,
                 loc=np.mean(values),
                 scale=stats.sem(values)
             )),
         }
+
 
         # בדיקת נורמליות
         _, normality_p_value = stats.normaltest(values)

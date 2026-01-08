@@ -1,0 +1,523 @@
+{
+    "metadata": {
+        "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a",
+        "timestamp": "2026-01-08T17:37:53.500267",
+        "ammeter_type": "greenlee",
+        "test_duration": 60,
+        "sampling_frequency": 10
+    },
+    "measurements": [
+        {
+            "timestamp": 1767886662.555805,
+            "value": 0.21274474831149648,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886662.660102,
+            "value": 0.08379110670390932,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886662.763703,
+            "value": 0.3925121558415935,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886662.8679621,
+            "value": 0.020940023264584735,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886662.975283,
+            "value": 0.08272406401178294,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.078042,
+            "value": 0.02867917449557756,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.180394,
+            "value": 1.5093616711147346,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.28509,
+            "value": 0.08480778546607053,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.389353,
+            "value": 0.24437135119104939,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.494358,
+            "value": 0.05719805887736752,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.5982358,
+            "value": 0.017279425381633576,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.700487,
+            "value": 0.1557402914428062,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.804082,
+            "value": 0.09757322883542625,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886663.908916,
+            "value": 0.03576059260220507,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.009849,
+            "value": 0.018133964802179013,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.111548,
+            "value": 0.12627206876763197,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.216328,
+            "value": 0.1245837186046176,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.3199182,
+            "value": 0.19851613711711158,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.425245,
+            "value": 0.32715381498347634,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.5308669,
+            "value": 0.3409728681529291,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.6338701,
+            "value": 0.08519963392586784,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.738899,
+            "value": 0.14991809465167122,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.843752,
+            "value": 0.16912364545937159,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886664.950902,
+            "value": 0.18163716998984478,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.0554922,
+            "value": 0.0214924607067514,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.155025,
+            "value": 2.1423090517462327,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.259069,
+            "value": 0.03856006633790412,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.360972,
+            "value": 0.15395804020349535,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.4680011,
+            "value": 0.020453357629011584,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.5664651,
+            "value": 0.14498006473307018,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.6691809,
+            "value": 0.30678898939230914,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.770769,
+            "value": 0.41280447812779253,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.875353,
+            "value": 0.7000932029989565,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886665.9776902,
+            "value": 0.11430254191939138,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.080361,
+            "value": 0.07724963473326217,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.184691,
+            "value": 0.11931164624501601,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.2906291,
+            "value": 0.08663118567727145,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.39144,
+            "value": 0.05586461337997019,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.49472,
+            "value": 0.06689785421389202,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.5939178,
+            "value": 0.02372984460384626,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.697344,
+            "value": 0.07889991918247707,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.801676,
+            "value": 1.5516627713611728,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886666.907179,
+            "value": 0.5706148596867531,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.008061,
+            "value": 0.2162645273955644,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.1101282,
+            "value": 0.18301060086273785,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.21453,
+            "value": 3.1649847410384973,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.319884,
+            "value": 0.24395732617480534,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.422397,
+            "value": 0.22636399162696333,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.5268412,
+            "value": 0.04409690753131127,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.630087,
+            "value": 0.04278916137653512,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.733818,
+            "value": 0.09869391328066357,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.839343,
+            "value": 0.4064280393384283,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886667.939499,
+            "value": 0.20412863117155963,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.041644,
+            "value": 0.039318699201536314,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.1473448,
+            "value": 0.02166788082906411,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.252929,
+            "value": 0.042895278643438214,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.3558168,
+            "value": 0.046904460618576345,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.460882,
+            "value": 0.1468521915261147,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.565805,
+            "value": 0.05857985911362993,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.672405,
+            "value": 0.1370946179317854,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.775419,
+            "value": 0.10199009843010969,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.8786502,
+            "value": 0.01562517278553879,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886668.982265,
+            "value": 0.050825057936264045,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.086387,
+            "value": 0.11483054655066982,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.191871,
+            "value": 0.18828639996148708,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.2958562,
+            "value": 0.3082619523225796,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.395957,
+            "value": 0.16062743717407954,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.500212,
+            "value": 0.052454307950284516,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.6009521,
+            "value": 0.9196986903348234,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.70308,
+            "value": 10.918590445708922,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.808661,
+            "value": 0.06771358692660227,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886669.913405,
+            "value": 0.06424780463274722,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.015295,
+            "value": 0.10726205509653679,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.118476,
+            "value": 0.060629541571209915,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.2211258,
+            "value": 0.0578340227303465,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.324379,
+            "value": 0.8373502030265735,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.428596,
+            "value": 0.19108802864024854,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.532407,
+            "value": 0.1590953638256006,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.636981,
+            "value": 0.15803149473236297,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.740333,
+            "value": 0.05524074222553355,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.841831,
+            "value": 0.08305318356017706,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886670.941984,
+            "value": 0.038759685878307464,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.0461938,
+            "value": 0.25812982998584155,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.150315,
+            "value": 0.021875143130854063,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.258476,
+            "value": 0.04915425592311019,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.358461,
+            "value": 0.12371980691472416,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.4639318,
+            "value": 0.051888547806464506,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.565684,
+            "value": 0.24105600007621877,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.669059,
+            "value": 0.19258168659121908,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.771381,
+            "value": 0.039808627711561184,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.875436,
+            "value": 0.350617111904138,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886671.9786859,
+            "value": 0.07542683667881216,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.082809,
+            "value": 0.09211913595095703,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.185983,
+            "value": 0.03972052554200313,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.2898161,
+            "value": 0.04535145210061914,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.3944619,
+            "value": 0.13936630621462587,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.497807,
+            "value": 0.05670522027595939,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.6013288,
+            "value": 0.16127432573974293,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.70503,
+            "value": 0.04817760431660892,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        },
+        {
+            "timestamp": 1767886672.8083782,
+            "value": 0.10929503125683966,
+            "test_id": "fa124520-cfd4-48ce-8ff8-ccb217030b3a"
+        }
+    ],
+    "analysis": {
+        "mean": 0.33563393474656034,
+        "median": 0.10827854317668822,
+        "std_dev": 1.148209470055213,
+        "min": 0.01562517278553879,
+        "max": 10.918590445708922,
+        "skewness": 8.035010435150369,
+        "kurtosis": 69.62451025516968,
+        "confidence_interval_95": [
+            0.10665650152473571,
+            0.564611367968385
+        ],
+        "is_normal_distribution": 

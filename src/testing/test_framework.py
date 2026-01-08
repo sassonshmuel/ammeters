@@ -68,4 +68,18 @@ class AmmeterTestFramework:
         
         os.makedirs(save_path, exist_ok=True)
         with open(filename, 'w') as f:
-            json.dump(results, f, indent=4) 
+            json.dump(self._to_json_safe(results), f, indent=4)
+
+    def _to_json_safe(self, obj):
+        if isinstance(obj, dict):
+            return {k: self._to_json_safe(v) for k, v in obj.items()}
+        if isinstance(obj, list):
+            return [self._to_json_safe(v) for v in obj]
+        if isinstance(obj, tuple):
+            return [self._to_json_safe(v) for v in obj]
+
+        # NumPy scalar → Python scalar
+        if hasattr(obj, "item"):
+            return obj.item()
+
+        return obj

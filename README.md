@@ -43,3 +43,17 @@ To start the ammeter emulators and request current measurements, run the `main.p
 ```sh
 python main.py
 ```
+
+Sasson's comments
+
+The project seems to be already designed, just with a lot of broken stuff.
+
+Fixes:
+1. Uncomment lines.
+2. Fix inconsistent command used.
+3. Implement empty unimplemented functions. 
+4. Added _to_json_safe() method since the results could not be converted to json.
+5. I had to add django-basic-stats dependency.
+6. Fixed stats.t.interval according to AciPy version.
+7. Main is running successfully.
+8. test_cases are running successfully. 

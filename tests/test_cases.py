@@ -12,6 +12,7 @@ from src.ammeters.main import (
     run_circutor_emulator
 )
 
+
 class TestAmmeterFramework(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -78,8 +79,9 @@ class TestAmmeterFramework(unittest.TestCase):
         """
         בדיקת טיפול בסוג אמפרמטר לא חוקי
         """
-        with self.assertRaises(ValueError):
+        with self.assertRaises(KeyError):
             self.framework.run_test("invalid_type")
+
 
 if __name__ == '__main__':
     unittest.main() 

@@ -3,6 +3,9 @@ from typing import List, Dict
 import threading
 import queue
 
+from Ammeters.client import request_current_from_ammeter
+
+
 class DataCollector:
     def __init__(self, config: Dict):
         self.config = config
@@ -64,4 +67,4 @@ class DataCollector:
         """
         # כאן צריך לממש את הקריאה לאמפרמטר הספציפי
         # using existing ammeter code
-        pass 
+        return request_current_from_ammeter(config["port"], config["command"].encode(encoding="utf-8", errors="strict"))

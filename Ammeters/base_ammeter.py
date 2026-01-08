@@ -24,15 +24,15 @@ class AmmeterEmulatorBase(ABC):
                 with conn:
                     print(f"Connected by {addr}")
                     data = conn.recv(1024)
-                    print(f"{data} - {self.get_current_command}")
-                    if data == self.get_current_command:
+                    # print(f"{data} - {self.get_current_command}")
+                    if data == self.current_command():
                         # Call the specific measure_current() method defined in subclasses
                         current = self.measure_current()
                         conn.sendall(str(current).encode('utf-8'))
 
-    @property
+    # @property
     @abstractmethod
-    def get_current_command(self) -> bytes:
+    def current_command(self) -> bytes:
         """
         This property must be implemented by each subclass to provide the specific
         command to get the current measurement.

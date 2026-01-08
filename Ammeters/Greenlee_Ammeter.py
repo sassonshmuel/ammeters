@@ -3,8 +3,8 @@ from Utiles.Utils import generate_random_float
 
 
 class GreenleeAmmeter(AmmeterEmulatorBase):
-    @property
-    def get_current_command(self) -> bytes:
+    @staticmethod
+    def current_command() -> bytes:
         # Define the command to get the current from Greenlee
         return b'MEASURE_GREENLEE -get_measurement'
 
