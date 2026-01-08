@@ -54,10 +54,12 @@ Fixes:
 3. Implement empty unimplemented functions. 
 4. Added _to_json_safe() method since the results could not be converted to json.
 5. I had to add django-basic-stats dependency.
-6. Fixed stats.t.interval according to AciPy version.
-7. Main is running successfully.
-8. test_cases are running successfully.
-9. visualization is working (see the results/plots folder). 
+6. Fixed stats.t.interval according to SciPy version.
+7. For the invalid_ammeter_type, fixed the expected Exception to KeyError 
+8. Main is running successfully.
+9. test_cases are running successfully.
+10. visualization is working (see the results/plots folder).
+11. Check the git commits to visualize all the fixes made in code. 
 
 
 How to run the test cases:
