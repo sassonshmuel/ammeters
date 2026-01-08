@@ -44,7 +44,7 @@ To start the ammeter emulators and request current measurements, run the `main.p
 python main.py
 ```
 
-Sasson's comments
+# Sasson's comments
 
 The project seems to be already designed and implemented, just with a lot of broken stuff.
 
