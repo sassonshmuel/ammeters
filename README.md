@@ -59,7 +59,8 @@ Fixes:
 8. Main is running successfully.
 9. test_cases are running successfully.
 10. visualization is working (see the results/plots folder).
-11. Check the git commits to visualize all the fixes made in code. 
+11. Check the git commits to visualize all the fixes made in code.
+12. Fixed ports according to the README. 
 
 
 How to run the test cases:
